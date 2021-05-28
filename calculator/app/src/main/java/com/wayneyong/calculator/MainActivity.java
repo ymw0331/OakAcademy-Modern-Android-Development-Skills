@@ -135,6 +135,23 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+//        double firstNumber = 0;
+//        double lastNumber = 0;
+//        //always keep on the screen
+//
+//        String status = null;
+//        boolean operator = false;
+//
+//        DecimalFormat myFormatter = new DecimalFormat("######.#####");
+//
+//        String history, currentResult;
+//
+//        boolean dot = true;
+//
+//        boolean btnACcontrol = true;
+//
+//        boolean btnEqualControl = true;
+
 
         btnAC.setOnClickListener(new View.OnClickListener() {
             @Override
