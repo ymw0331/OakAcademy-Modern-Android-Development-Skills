@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121670954335",
+    "project_id": "my-chat-application-4b0ec",
+    "storage_bucket": "my-chat-application-4b0ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121670954335:android:370d026b808ed6ef48daea",
+        "android_client_info": {
+          "package_name": "com.wayneyong.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121670954335-7i4uk38n37470lckkinu9ciumpq1ai7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwUif9dVWwbT7MhBVEOQp6tjD8tPbpCqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121670954335-7i4uk38n37470lckkinu9ciumpq1ai7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
