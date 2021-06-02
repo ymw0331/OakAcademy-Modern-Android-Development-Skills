@@ -80,12 +80,9 @@ public class WeatherActivity extends AppCompatActivity {
                             .placeholder(R.drawable.ic_launcher_background)
                             .into(imageViewWeather);
 
-
                 } else {
                     Toast.makeText(WeatherActivity.this, "City not found, please try again", Toast.LENGTH_LONG).show();
                 }
-
-
             }
 
             @Override

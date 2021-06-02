@@ -1,7 +1,5 @@
 package com.wayneyong.weather_application;
 
-import androidx.annotation.RestrictTo;
-
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
