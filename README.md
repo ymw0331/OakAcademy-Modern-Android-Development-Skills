@@ -1,6 +1,6 @@
 ## Modern Android Development Skills - Udemy (Oak Academy)
 
-### What I have learned from this course
+### What I have learned from this course: 
 
 <ul>
 
